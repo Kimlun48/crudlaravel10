@@ -15,7 +15,7 @@
             <div class="col-md-12">
                 <div>
                     <h3 class="text-center my-4">Laravel 10</h3>
-                    <h5 class="text-center"><a href="#">BY ASEP</a></h5>
+                    <h5 class="text-center"><a href="#">BY ASEP SUHERMAN</a></h5>
                     <hr>
                 </div>
                 <div class="card border-0 shadow-sm rounded">
